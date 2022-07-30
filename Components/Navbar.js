@@ -109,7 +109,7 @@ function Navbar({ topics }) {
                     <IoMdArrowDropdown className="text-xl" />
                   </span>
                 </a>
-                <ul className="dropdown-menu absolute hidden text-gray-700 pt-1 bg-white dark:bg-dark w-40 pt-6 rounded-xl left-1/3">
+                <ul className="dropdown-menu absolute hidden text-gray-700 bg-white dark:bg-dark w-40 pt-6 rounded-xl left-1/3">
                   {topics.map((topic) => (
                     <Link href={`/topic/${topic}`} key={topic}>
                       <li className="cursor-pointer">
