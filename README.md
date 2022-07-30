@@ -14,9 +14,9 @@
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/soumyajit4419/Bits-0f-C0de/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/neeteshraj/Bits-0f-C0de/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/soumyajit4419/Bits-0f-C0de/issues">Request Feature</a>
+    <a href="https://github.com/neeteshraj/Bits-0f-C0de/issues">Request Feature</a>
 </h3>
 
 ## Built With
