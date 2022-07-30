@@ -28,8 +28,34 @@ export default function Home({ blogs, topics }) {
         />
 
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://bits-0f-c0de-gilt.vercel.app/" />
+        <meta
+          property="og:url"
+          content="https://bits-0f-c0de-gilt.vercel.app/"
+        />
         <meta property="og:title" content="Bits-0f-C0de 🚀" />
+        <meta
+          property="og:description"
+          content="Tech blogs and articles on various topics related to Software Development"
+        />
+        <meta
+          property="og:image"
+          content="https://vestande.sirv.com/Screen%20Shot%202022-07-30%20at%209.57.35%20PM.png"
+        />
+
+        <meta property="twitter:card" content="summary_large_image" />
+        <meta
+          property="twitter:url"
+          content="https://bits-0f-c0de-gilt.vercel.app/"
+        />
+        <meta property="twitter:title" content="Bits-0f-C0de 🚀" />
+        <meta
+          property="twitter:description"
+          content="Tech blogs and articles on various topics related to Software Development"
+        />
+        <meta
+          property="twitter:image"
+          content="https://vestande.sirv.com/Screen%20Shot%202022-07-30%20at%209.57.35%20PM.png"
+        />
       </Head>
 
       <div className="min-h-screen relative bg-white dark:bg-gray-900">
