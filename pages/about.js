@@ -23,15 +23,14 @@ function about({ topics }) {
         <h2 className="text-3xl font-semibold text-gray-700 py-4 dark:text-gray-200">
           Hi,{" "}
           <span className="bg-indigo-400 text-white rounded px-1 dark:bg-indigo-500">
-            I’m Soumyajit
+            I’m Nitesh
           </span>{" "}
           . Nice to meet you.
         </h2>
         <p className="text-gray-600 mt-4 dark:text-indigo-200">
-          I am a self taught developer currently pursuing IMSC in Maths and
-          Computing in BIT Mesra. My field of Interest's are building new Web
-          Technologies and Products and also in areas related to Deep Learning
-          and Natural Launguage Processing.
+          I am a Javascript developer currently pursuing BSc. CSIT in St.
+          Lawrence College, Kathmandu. My field of Interest's are building new
+          Web Technologies and Products and also in areas related to Javascript.
         </p>
 
         <div className="text-center pt-8">
@@ -40,7 +39,7 @@ function about({ topics }) {
             <a
               rel="noopener noreferrer"
               target="_blank"
-              href="https://soumya-jit.tech/"
+              href="https://portfolio-neeteshraj.vercel.app/"
             >
               See My Works
             </a>
@@ -52,7 +51,7 @@ function about({ topics }) {
               className="twitter-follow-button"
               rel="noopener noreferrer"
               target="_blank"
-              href="https://twitter.com/soumyajit4419"
+              href="https://twitter.com/neeteshkhanal"
             >
               Follow Me
             </a>

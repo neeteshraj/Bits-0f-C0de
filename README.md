@@ -21,7 +21,7 @@
 
 ## Built With
 
-<!-- My personal blogpage <a href="http://blogs.soumya-jit.tech/" target="_blank">blogs.soumyajit.tech</a> which features some of my developer blog posts and experiences.<br/> -->
+<!-- My personal blogpage <a href="http://blogs.soumya-jit.tech/" target="_blank">blogs.Nitesh Raj Khanal.tech</a> which features some of my developer blog posts and experiences.<br/> -->
 
 This project was built using these technologies.
 

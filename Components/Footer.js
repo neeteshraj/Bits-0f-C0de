@@ -11,18 +11,18 @@ function Footer() {
           <p className="text-gray-50 text-sm text-center sm:text-left">
             © {year} Bits-Of-C0de —
             <a
-              href="https://twitter.com/soumyajit4419"
+              href="https://twitter.com/neeteshkhanal"
               rel="noopener noreferrer"
               className="text-gray-50 ml-1"
               target="_blank"
             >
-              @Soumyajit
+              @neeteshkhanal
             </a>
           </p>
           <span className="inline-flex sm:ml-auto sm:mt-0 mt-2 justify-center sm:justify-start">
             <a
               className="text-gray-50"
-              href="https://twitter.com/soumyajit4419"
+              href="https://twitter.com/neeteshkhanal"
               rel="noopener noreferrer"
               target="_blank"
             >
@@ -30,7 +30,7 @@ function Footer() {
             </a>
             <a
               className="ml-4 text-gray-50"
-              href="https://github.com/soumyajit4419"
+              href="https://github.com/neeteshraj"
               rel="noopener noreferrer"
               target="_blank"
             >
@@ -38,7 +38,7 @@ function Footer() {
             </a>
             <a
               className="ml-4 text-gray-50"
-              href="https://www.instagram.com/s.o.u.m.y.a_j.i.t/"
+              href="https://www.instagram.com/neeteshkhanal"
               rel="noopener noreferrer"
               target="_blank"
             >
@@ -46,7 +46,7 @@ function Footer() {
             </a>
             <a
               className="ml-4 text-gray-50"
-              href="https://www.linkedin.com/in/soumyajit4419/"
+              href="https://www.linkedin.com/in/n33t3sh"
               rel="noopener noreferrer"
               target="_blank"
             >
