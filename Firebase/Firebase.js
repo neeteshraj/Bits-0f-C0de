@@ -4,13 +4,13 @@ import { getFirestore } from "firebase/firestore";
 import { getAuth, GoogleAuthProvider } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: process.env.NEXT_PUBLIC_FIREBASE_API_KEY,
-  authDomain: process.env.NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN,
-  projectId: process.env.NEXT_PUBLIC_FIREBASE_PROJECT_ID,
-  storageBucket: process.env.NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET,
-  messagingSenderId: process.env.NEXT_PUBLIC_FIREBASE_SENDER_ID,
-  appId: process.env.NEXT_PUBLIC_FIREBASE_APP_ID,
-  measurementId: process.env.NEXT_PUBLIC_FIREBASE_MEASUREMENT_ID,
+  apiKey: "AIzaSyDNE9w8v8V1G4FBe9HZ1DHtk4cKQxSoMI0",
+  authDomain: "bits-of-code-e7eaa.firebaseapp.com",
+  projectId: "bits-of-code-e7eaa",
+  storageBucket: "bits-of-code-e7eaa.appspot.com",
+  messagingSenderId: "863784193345",
+  appId: "1:863784193345:web:431049d8527e05363e65c0",
+  measurementId: "G-530MV0N0YZ",
 };
 const app = initializeApp(firebaseConfig);
 
